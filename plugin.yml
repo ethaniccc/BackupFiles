@@ -2,5 +2,5 @@
 name: BackupFiles
 version: 1.0
 main: ethaniccc\BackupFiles\Loader
-api: 3.0.0
+api: 3.12.0
 ...
